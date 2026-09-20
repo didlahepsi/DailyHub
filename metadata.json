@@ -1,0 +1,6 @@
+{
+  "name": "Daily Hub",
+  "description": "Every Product & Service in One Platform — On-demand groceries, local products, and verified doorstep home services with AI smart search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
